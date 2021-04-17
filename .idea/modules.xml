@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/creational-pattern/creational-pattern.iml" filepath="$PROJECT_DIR$/creational-pattern/creational-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structuaral-pattern/structuaral-pattern.iml" filepath="$PROJECT_DIR$/structuaral-pattern/structuaral-pattern.iml" />
     </modules>
   </component>
 </project>
